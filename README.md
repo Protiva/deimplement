@@ -1,2 +1,2 @@
-De-Implementation Resource Repository
+De-Implementation Resource Repository \
 Kathryn Pluta and Jennifer LeLaurin
