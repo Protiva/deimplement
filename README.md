@@ -53,7 +53,7 @@ This repository serves as a centralized hub for information related to tracking 
 ## Funding 
 Guidance for acquiring funding for de-implementaiton opportunities will be listed here 
 
-- Norton, W.E., Kennedy, A.E. & Chambers, D.A. Studying de-implementation in health: an analysis of funded research grants. Implementation Sci 12, 144 (2017). https://doi.org/10.1186/s13012-017-0655-z- 
+- Norton, W.E., Kennedy, A.E. & Chambers, D.A. Studying de-implementation in health: an analysis of funded research grants. Implementation Sci 12, 144 (2017). doi: 10.1186/s13012-017-0655-z- 
 <a href= "https://implementationscience.biomedcentral.com/articles/10.1186/s13012-017-0655-z"> [Article Link]</a>
 <br/>
 <br/>
