@@ -54,5 +54,17 @@ Outcomes
 ## Funding 
 Guidance for acquiring funding for de-implementaiton opportunities will be listed here 
 
-- Norton, W.E., Kennedy, A.E. & Chambers, D.A. Studying de-implementation in health: an analysis of funded research grants. Implementation Sci 12, 144 (2017). https://doi.org/10.1186/s13012-017-0655-z
+- Norton, W.E., Kennedy, A.E. & Chambers, D.A. Studying de-implementation in health: an analysis of funded research grants. Implementation Sci 12, 144 (2017). https://doi.org/10.1186/s13012-017-0655-z- 
+<br/>
+<br/>
+
+## References
+<OL>
+  <LI>Alishahi Tabriz A, Turner K, Clary A, et al. De-implementing low-value care in cancer care delivery: a systematic review. Implementation Science. 2022;17(1):24. </LI>
+  <LI>Schwartz AL, Zaslavsky AM, Landon BE, Chernew ME, McWilliams JM. Low-Value Service Use in Provider Organizations. Health Serv Res. Feb 2018;53(1):87-119. doi:10.1111/1475-6773.12597</LI>
+  <LI>Norton WE, Kennedy AE, Chambers DA. Studying de-implementation in health: an analysis of funded research grants. Implementation Science. 2017;12:1-13.</LI>
+  <LI>Baumann AA, Shelton RC, Kumanyika S, Haire‐Joshu D. Advancing healthcare equity through dissemination and implementation science. Health services research. 2023;58:327-344. </LI>
+  <LI>Khan S, Chambers D, Neta G. Revisiting time to translation: implementation of evidence-based practices (EBPs) in cancer control. Cancer Causes Control. Mar 2021;32(3):221-230. doi:10.1007/s10552-020-01376-z
+</LI>
+</OL>
 
