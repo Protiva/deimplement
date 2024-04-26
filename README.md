@@ -4,7 +4,7 @@ _Department of Health Outcomes & Biomedical Informatics_ <br/>
 _University of Florida College of Medicine, Gainesville, FL_ <br/>
 
 If you would like to get in touch regarding the repository, including adding your own resources and general inquiries, please do not hesistate to <b>contact us!</b> This page was created with the goal of being a collaborative effort to accelerate progress in de-implementation of low-value practices. We can't wait to hear from you!<br/><br/>
-Dr. Pluta: k.bunda@ufl.edu; Dr. LeLaurin: jhlelaurin@ufl.edu <br/>
+Dr. Pluta: k.bunda@ufl.edu; Dr. LeLaurin: jlelaurin@ufl.edu <br/>
 <br/>
 <br/>
 
