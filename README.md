@@ -22,22 +22,21 @@ This repository serves as a centralized hub for information related to tracking 
 
 ## De-Implementation Publications
 ### _Frameworks & Models_
-- Walsh-Bailey C, Tsai E, Tabak RG, Morshed AB, Norton WE, McKay VR, Brownson RC, Gifford S. A scoping review of de-implementation frameworks and models. Implementation Science. 2021 Dec;16(1):1-8.
+- Walsh-Bailey C, Tsai E, Tabak RG, Morshed AB, Norton WE, McKay VR, Brownson RC, Gifford S. A scoping review of de-implementation frameworks and models. Implementation Science. 2021 Dec;16(1):1-8. <a href="https://implementationscience.biomedcentral.com/articles/10.1186/s13012-021-01173-5"> [Article Link]</a> 
 
 ### _Strategies & Guidance_ 
-- Burton CR, Williams L, Bucknall T, Fisher D, Hall B, Harris G, Jones P, Makin M, Mcbride A, Meacock R, Parkinson J, Rycroft-Malone J, Waring J. Theory and practical guidance for effective de-implementation of practices across health and care services: a realist synthesis. Southampton (UK): NIHR Journals Library; 2021 Feb. PMID: 33555774.
+- Burton CR, Williams L, Bucknall T, Fisher D, Hall B, Harris G, Jones P, Makin M, Mcbride A, Meacock R, Parkinson J, Rycroft-Malone J, Waring J. Theory and practical guidance for effective de-implementation of practices across health and care services: a realist synthesis. Southampton (UK): NIHR Journals Library; 2021 Feb. PMID: 33555774. <a href="https://pubmed.ncbi.nlm.nih.gov/33555774/"> [Article Link]</a>
 
-- Ingvarsson S, Hasson H, von Thiele Schwarz U, Nilsen P, Powell BJ, Lindberg C, Augustsson H. Strategies for de-implementation of low-value care—a scoping review. Implementation Science. 2022 Oct 27;17(1):73.
-Outcomes
+- Ingvarsson S, Hasson H, von Thiele Schwarz U, Nilsen P, Powell BJ, Lindberg C, Augustsson H. Strategies for de-implementation of low-value care—a scoping review. Implementation Science. 2022 Oct 27;17(1):73. <a href="https://implementationscience.biomedcentral.com/articles/10.1186/s13012-022-01247-y"> [Article Link]</a>
 
-- Prusaczyk B, Swindle T, Curran G. Defining and conceptualizing outcomes for de-implementation: key distinctions from implementation outcomes. Implement Sci Commun. 2020 Apr 30;1:43. https://10.1186/s43058-020-00035-3. PMID: 32885200; PMCID: PMC7427870.
+- Prusaczyk B, Swindle T, Curran G. Defining and conceptualizing outcomes for de-implementation: key distinctions from implementation outcomes. Implement Sci Commun. 2020 Apr 30;1:43. doi: 10.1186/s43058-020-00035-3. PMID: 32885200; PMCID: PMC7427870. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7427870/"> [Article Link]</a>
   
 ### _General Complexities of De-implementation_
-- Davidson KW, Ye S, Mensah GA. Commentary: De-implementation Science: A Virtuous Cycle of Ceasing and Desisting Low-Value Care Before Implementing New High Value Care. Ethn Dis. 2017 Dec 7;27(4):463-468. https://10.18865/ed.27.4.463. PMID: 29225448; PMCID: PMC5720957.
+- Davidson KW, Ye S, Mensah GA. Commentary: De-implementation Science: A Virtuous Cycle of Ceasing and Desisting Low-Value Care Before Implementing New High Value Care. Ethn Dis. 2017 Dec 7;27(4):463-468. doi: 10.18865/ed.27.4.463. PMID: 29225448; PMCID: PMC5720957. <a href="https://pubmed.ncbi.nlm.nih.gov/29225448/"> [Article Link]</a>
 
-- Norton, W.E., Chambers, D.A. Unpacking the complexities of de-implementing inappropriate health interventions. Implementation Sci 15, 2020; 2. https://doi.org/10.1186/s13012-019-0960-9
+- Norton, W.E., Chambers, D.A. Unpacking the complexities of de-implementing inappropriate health interventions. Implementation Sci 15, 2020; 2. doi: 10.1186/s13012-019-0960-9. PMID: 29225448; PMCID: PMC5720957. <a href="https://implementationscience.biomedcentral.com/articles/10.1186/s13012-019-0960-9"> [Article Link]</a>
 
-- Verkerk E. W., van Dulmen, S. A., Westert, G.P., Hooft, L., Heus, P., Kool, R. B. Reducing low-value care: what can we learn from eight de-implementation studies in the Netherlands? BMJ Open Quality. 2022 Oct 23. e001710. https://10.1136/bmjoq-2021-001710
+- Verkerk E. W., van Dulmen, S. A., Westert, G.P., Hooft, L., Heus, P., Kool, R. B. Reducing low-value care: what can we learn from eight de-implementation studies in the Netherlands? BMJ Open Quality. 2022 Oct 23. e001710. doi: 10.1136/bmjoq-2021-001710 <a href= "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9454034/"> [Article Link]</a>
 <br/>
   
 ## Guidance and Toolkits 
@@ -55,6 +54,7 @@ Outcomes
 Guidance for acquiring funding for de-implementaiton opportunities will be listed here 
 
 - Norton, W.E., Kennedy, A.E. & Chambers, D.A. Studying de-implementation in health: an analysis of funded research grants. Implementation Sci 12, 144 (2017). https://doi.org/10.1186/s13012-017-0655-z- 
+<a href= "https://implementationscience.biomedcentral.com/articles/10.1186/s13012-017-0655-z"> [Article Link]</a>
 <br/>
 <br/>
 
