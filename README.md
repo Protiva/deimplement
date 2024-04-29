@@ -44,6 +44,8 @@ This repository serves as a centralized hub for information related to tracking 
 - <a href="https://www.ama-assn.org/system/files/ama-steps-forward-de-implementation-checklist.pdf"> American American Medical Association De-implementation Checklist</a>
 - <a href="https:/www.nccmt.ca/knowledge-repositories/search/319"> National Registry of Evidence-Based Programs and Practices De-Implementation Checklist</a>
 - <a href="https://vbidcenter.org/initiatives/low-value-care/"> Center for Value-Based Care Insurance Design: Reducing the Utilization of Low-Value Care</a>
+- <a href="https://academyhealth.org/blog/2020-07/de-implementation-low-value-care-tool-create-clinician-energy-targeted-interventions"> Academy Health - De-implementation of Low Value Care: A Tool to Create Clinician Energy for Targeted Interventions (Blog Post)</a>
+<a href="https://academyhealth.org/blog/2020-06/viewing-de-implementation-feature-learning-health-care-system"> Academy Health - Viewing De-implementation as a Feature of a Learning Health Care System (Blog Post)</a>
 <br/>
 
 ## Webinars
