@@ -21,24 +21,32 @@ This repository serves as a centralized hub for information related to tracking 
 
 
 ## De-Implementation Publications
-### _Frameworks & Models_
-- Walsh-Bailey C, Tsai E, Tabak RG, Morshed AB, Norton WE, McKay VR, Brownson RC, Gifford S. A scoping review of de-implementation frameworks and models. Implementation Science. 2021 Dec;16(1):1-8. <a href="https://implementationscience.biomedcentral.com/articles/10.1186/s13012-021-01173-5"> [Article Link]</a> 
 
-### _Strategies & Guidance_ 
-- Burton CR, Williams L, Bucknall T, Fisher D, Hall B, Harris G, Jones P, Makin M, Mcbride A, Meacock R, Parkinson J, Rycroft-Malone J, Waring J. Theory and practical guidance for effective de-implementation of practices across health and care services: a realist synthesis. Southampton (UK): NIHR Journals Library; 2021 Feb. PMID: 33555774. <a href="https://pubmed.ncbi.nlm.nih.gov/33555774/"> [Article Link]</a>
+### _General Overviews and the Complexities of De-implementation_
 
-- Ingvarsson S, Hasson H, von Thiele Schwarz U, Nilsen P, Powell BJ, Lindberg C, Augustsson H. Strategies for de-implementation of low-value care—a scoping review. Implementation Science. 2022 Oct 27;17(1):73. <a href="https://implementationscience.biomedcentral.com/articles/10.1186/s13012-022-01247-y"> [Article Link]</a>
+- McKay VR, Morshed AB, Brownson RC, Proctor EK, Prusaczyk B. Letting Go: Conceptualizing Intervention De-implementation in Public Health and Social Service Settings. Am J Community Psychol. 2018 Sep;62(1-2):189-202. doi: 10.1002/ajcp.12258. Epub 2018 Jul 3. PMID: 29971792; PMCID: PMC6175194. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ajcp.12258"> [Article Link]</a>
 
-- Prusaczyk B, Swindle T, Curran G. Defining and conceptualizing outcomes for de-implementation: key distinctions from implementation outcomes. Implement Sci Commun. 2020 Apr 30;1:43. doi: 10.1186/s43058-020-00035-3. PMID: 32885200; PMCID: PMC7427870. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7427870/"> [Article Link]</a>
+- van Bodegom-Vos L, Davidoff F, Marang-van de Mheen PJ. Implementation and de-implementation: two sides of the same coin? BMJ Qual Saf. 2017 Jun;26(6):495-501. doi: 10.1136/bmjqs-2016-005473. Epub 2016 Aug 10. PMID: 27512102. <a href="https://qualitysafety.bmj.com/content/26/6/495.long"> [Article Link]</a>
   
-### _General Complexities of De-implementation_
 - Davidson KW, Ye S, Mensah GA. Commentary: De-implementation Science: A Virtuous Cycle of Ceasing and Desisting Low-Value Care Before Implementing New High Value Care. Ethn Dis. 2017 Dec 7;27(4):463-468. doi: 10.18865/ed.27.4.463. PMID: 29225448; PMCID: PMC5720957. <a href="https://pubmed.ncbi.nlm.nih.gov/29225448/"> [Article Link]</a>
 
 - Norton, W.E., Chambers, D.A. Unpacking the complexities of de-implementing inappropriate health interventions. Implementation Sci 15, 2020; 2. doi: 10.1186/s13012-019-0960-9. PMID: 29225448; PMCID: PMC5720957. <a href="https://implementationscience.biomedcentral.com/articles/10.1186/s13012-019-0960-9"> [Article Link]</a>
 
 - Verkerk E. W., van Dulmen, S. A., Westert, G.P., Hooft, L., Heus, P., Kool, R. B. Reducing low-value care: what can we learn from eight de-implementation studies in the Netherlands? BMJ Open Quality. 2022 Oct 23. e001710. doi: 10.1136/bmjoq-2021-001710 <a href= "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9454034/"> [Article Link]</a>
 <br/>
-  
+
+### _Frameworks & Models_
+- Walsh-Bailey C, Tsai E, Tabak RG, Morshed AB, Norton WE, McKay VR, Brownson RC, Gifford S. A scoping review of de-implementation frameworks and models. Implementation Science. 2021 Dec;16(1):1-8. <a href="https://implementationscience.biomedcentral.com/articles/10.1186/s13012-021-01173-5"> [Article Link]</a>
+- Grimshaw JM, Patey AM, Kirkham KR, Hall A, Dowling SK, Rodondi N, Ellen M, Kool T, van Dulmen SA, Kerr EA, Linklater S, Levinson W, Bhatia RS. De-implementing wisely: developing the evidence base to reduce low-value care. BMJ Qual Saf. 2020 May;29(5):409-417. doi: 10.1136/bmjqs-2019-010060. Epub 2020 Feb 6. PMID: 32029572; PMCID: PMC7229903. <a href="https://qualitysafety.bmj.com/content/29/5/409"> [Article Link]</a>
+
+### _Strategies & Guidance_ 
+- Burton CR, Williams L, Bucknall T, Fisher D, Hall B, Harris G, Jones P, Makin M, Mcbride A, Meacock R, Parkinson J, Rycroft-Malone J, Waring J. Theory and practical guidance for effective de-implementation of practices across health and care services: a realist synthesis. Southampton (UK): NIHR Journals Library; 2021 Feb. PMID: 33555774. <a href="https://pubmed.ncbi.nlm.nih.gov/33555774/"> [Article Link]</a>
+
+- Ingvarsson S, Hasson H, von Thiele Schwarz U, Nilsen P, Powell BJ, Lindberg C, Augustsson H. Strategies for de-implementation of low-value care—a scoping review. Implementation Science. 2022 Oct 27;17(1):73. <a href="https://implementationscience.biomedcentral.com/articles/10.1186/s13012-022-01247-y"> [Article Link]</a>
+
+### _Outcomes_
+- Prusaczyk B, Swindle T, Curran G. Defining and conceptualizing outcomes for de-implementation: key distinctions from implementation outcomes. Implement Sci Commun. 2020 Apr 30;1:43. doi: 10.1186/s43058-020-00035-3. PMID: 32885200; PMCID: PMC7427870. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7427870/"> [Article Link]</a>
+ 
 ## Guidance and Toolkits 
 - <a href="https://www.aap.org/en/news-room/campaigns-and-toolkits/choosing-wisely"> American Pediatrics Association: Choosing Wisely Campaign Toolkit</a>
 - <a href="https://www.ama-assn.org/system/files/ama-steps-forward-de-implementation-checklist.pdf"> American American Medical Association De-implementation Checklist</a>
@@ -50,6 +58,8 @@ This repository serves as a centralized hub for information related to tracking 
 
 ## Webinars
 - <a href="https://www.youtube.com/watch?v=Jtad417gCHc"> De-Implementation: The Complexities of Overuse, Overdiagnosis, & De-Adoption</a>
+- <a href="https://www.hsrd.research.va.gov/for_researchers/cyber_seminars/archives/video_archive.cfm?SessionID=3877"> What Potentially Makes De-Implementation Different Than Implementation and Why Does it Matter? Thoughts on Theory, Outcomes and Patient Experience</a>
+- <a href="https://healthcaredelivery.cancer.gov/media/de-implementation.html"> De-Implementation of Ineffective or Low-Value Clinical Practices Along the Cancer Care Continuum</a>
 <br/>
 
 ## Funding 
